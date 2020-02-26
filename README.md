@@ -8,8 +8,9 @@
  > * SENet+Inception v3
 
 ## Weather dataset
- The weather Dataset is available in the master branch
+ The weather Dataset is available in this Link https://pan.baidu.com/s/1d9N89qkMuqMaydcXpoALog
  called *'WeatheDataset'*
+pls contact me with email for more info || Jasonmils@whut.edu.cn
 
 ## Experiment & Result
 ### 1. Data Augment
