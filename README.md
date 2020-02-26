@@ -22,7 +22,7 @@ pls contact me with email for more info || Jasonmils@whut.edu.cn
      train_images.append(im.reshape(1, width, height, 3) / 255.0)
      train_labels.append(label)
  ```
-### 1. Training & Testing
+### 2. Training & Testing
  Resuls are as follow.
 
  ![Fig.1 validation Acc vs Epoch](https://github.com/Jasonmils/Weather-Image-Recognition-Considering-Light-Condition-Via-CNNs/blob/master/Result%20(1).png)
