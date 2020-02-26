@@ -23,5 +23,5 @@
  ```
 ### 1. Training & Testing
  Resuls are as follow.
- ![Fig.1 validation Acc vs Epoch]()
+ ![Fig.1 validation Acc vs Epoch](https://github.com/Jasonmils/Weather-Image-Recognition-Considering-Light-Condition-Via-CNNs/blob/master/Result%20(1).png)
  ![Fig.2 validation Loss vs Epoch]()
