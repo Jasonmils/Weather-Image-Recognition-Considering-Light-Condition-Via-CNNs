@@ -14,7 +14,7 @@ pls contact me with email for more info || Jasonmils@whut.edu.cn
 
 ## Experiment & Result
 ### 1. Data Augment
- First， the data is normalized and fliped for data augment
+ First， the data is resized and fliped for data augment
  ```python
  for i in [-1, 0, 1]:
      file_new = cv2.flip(file, i)
